@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff00aa&height=260&section=header&text=Fernanda%20Fátima&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Desenvolvedora%20|%20IA%20%2B%20Automação&descAlignY=56&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff00aa&height=260&section=header&text=Fernanda%20Fátima&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Desenvolvedora%20em%20Desenvolvimento&descAlignY=56&descAlign=50"/>
 </p>
 
 # 👋 Olá! Eu sou a Fernanda Fátima
 ### 👩‍💻 Desenvolvedora & Exploradora de Inteligências (Humanas + Artificiais)
+Estudante de Análise e Desenvolvimento de Sistemas (ADS)
 
 Apaixonada por tecnologia, automações e inteligência artificial.  
 Busco criar soluções que simplificam o complexo, conectam propósito e impulsionam a eficiência.
