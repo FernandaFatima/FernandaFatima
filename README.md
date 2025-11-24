@@ -23,9 +23,17 @@
 </p>
 ---
 
-### 🌟 Projeto em Destaque
+### 🌟 Projetos em Destaque
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FernandaFAtima&repo=trilhasdr&theme=dark&title_color=28ff8c&icon_color=ff00aa)](https://github.com/FernandaFAtima/trilhasdr)
+<p align="center">
+  <a href="https://github.com/FernandaFatima/Landinh-Page-Vinhos">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FernandaFatima&repo=Landinh-Page-Vinhos&theme=dark&title_color=28ff8c&icon_color=ff00aa"/>
+  </a>
+
+  <a href="https://github.com/FernandaFAtima/trilhasdr">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FernandaFAtima&repo=trilhasdr&theme=dark&title_color=28ff8c&icon_color=ff00aa"/>
+  </a>
+</p>
 
 ---
 
