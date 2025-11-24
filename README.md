@@ -23,14 +23,19 @@
 </p>
 ---
 
-### 🌟 Projetos em Destaque
+### ✨ Projetos em Destaque
 
 <div align="center">
-  [![Repo Card - Vinhos](https://github-readme-stats.vercel.app/api/pin/?username=FernandaFAtima&repo=Landinh-Page-Vinhos&theme=dark&title_color=28ff8c&icon_color=ff00aa)](https://github.com/FernandaFAtima/Landinh-Page-Vinhos) [![Repo Card - Trilhas](https://github-readme-stats.vercel.app/api/pin/?username=FernandaFAtima&repo=trilhasdr&theme=dark&title_color=28ff8c&icon_color=ff00aa)](https://github.com/FernandaFAtima/trilhasdr)
+  <a href="https://github.com/FernandaFAtima/Landinh-Page-Vinhos">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FernandaFAtima&repo=Landinh-Page-Vinhos&theme=dark&title_color=28ff8c&icon_color=ff00aa" alt="Landinh-Page-Vinhos" style="max-width: 49%; margin: 5px;">
+  </a>
+  
+  <a href="https://github.com/FernandaFAtima/trilhasdr">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FernandaFAtima&repo=trilhasdr&theme=dark&title_color=28ff8c&icon_color=ff00aa" alt="trilhasdr" style="max-width: 49%; margin: 5px;">
+  </a>
 </div>
 
 ---
-
 ### 📬 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FernandaFátima-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fernanda-fátima-2560751a2)
