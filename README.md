@@ -11,14 +11,6 @@ Busco criar soluções que simplificam o complexo, conectam propósito e impulsi
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FernandaFatima&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&hide_border=true&title_color=ff00aa)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaFatima&layout=compact&langs_count=6&theme=buefy&hide_border=true&title_color=ff00aa)
-
----
-
 ## 🛠 **Tecnologias & Ferramentas**
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -47,10 +39,10 @@ Busco criar soluções que simplificam o complexo, conectam propósito e impulsi
 
 | Projeto | Progresso |
 | :--- | :--- |
-| Pixel Escape | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 80% |
-| Trilha SDR | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 60% |
-| Landing Page | 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 40% |
-| Games Python | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 20% |
+| Pixel Escape | 🟩⬜⬜⬜⬜⬜⬜⬜⬜ 10% |
+| Trilha SDR | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80% |
+| Landing Page | 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 30% |
+| Games Python | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
 
 ---
 
