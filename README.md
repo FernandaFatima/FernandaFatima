@@ -52,34 +52,15 @@ Busco criar soluções que simplificam o complexo, conectam propósito e impulsi
 ---
 ## 🌟 Projetos em Destaque ✨
 
-<div align="center" style="display:flex; gap:20px; flex-wrap: wrap; justify-content: center; margin-top: 20px;">
+<div align="center">
 
-    <div style="border: 2px solid #28ff8c; border-radius: 15px; padding: 15px; width: 320px; background-color: #0d1117; margin-bottom: 20px;">
-    <h3 align="center" style="margin-top: 10px; margin-bottom: 10px;">Trilha SDR</h3>
-    <p style="font-size: 0.9em; line-height: 1.4; text-align: center;">Plataforma interativa de trilha de aprendizagem para SDRs, com conteúdos práticos e desafios guiados.</p>
-    <p align="center" style="margin-top: 15px;">
-      <a href="https://github.com/FernandaFAtima/trilhasdr" style="color: #0077B5; text-decoration: none; font-weight: bold;">Ver no GitHub</a>
-    </p>
-  </div>
-
-    <div style="border: 2px solid #28ff8c; border-radius: 15px; padding: 15px; width: 320px; background-color: #0d1117; margin-bottom: 20px;">
-    <h3 align="center" style="margin-top: 10px; margin-bottom: 10px;">Landing Page de Vinhos</h3>
-    <p style="font-size: 0.9em; line-height: 1.4; text-align: center;">Landing page de catálogo de vinhos “Cabernet Wine House” com busca interativa, layout responsivo e design elegante.</p>
-    <p align="center" style="margin-top: 15px;">
-      <a href="https://github.com/FernandaFatima/LandingPageVinhos" style="color: #0077B5; text-decoration: none; font-weight: bold;">Ver no GitHub</a>
-    </p>
-  </div>
-
-    <div style="border: 2px solid #28ff8c; border-radius: 15px; padding: 15px; width: 320px; background-color: #0d1117; margin-bottom: 20px;">
-    <h3 align="center" style="margin-top: 10px; margin-bottom: 10px;">Games Python (Pygame)</h3>
-    <p style="font-size: 0.9em; line-height: 1.4; text-align: center;">Meu primeiro jogo com **Python** e **Pygame**. Um *game tester* para coletar pontos, explorando colisões, sons e o *game loop*.</p>
-    <p align="center" style="margin-top: 15px;">
-      <a href="https://github.com/FernandaFatima/games-pyton" style="color: #0077B5; text-decoration: none; font-weight: bold;">Ver no GitHub</a>
-    </p>
-  </div>
+| Projeto | Descrição | Link |
+| :---: | :--- | :---: |
+| **Trilha SDR** | Plataforma interativa de trilha de aprendizagem para SDRs, com conteúdos práticos e desafios guiados. | [Ver no GitHub](https://github.com/FernandaFAtima/trilhasdr) |
+| **Landing Page de Vinhos** | Landing page de catálogo de vinhos “Cabernet Wine House” com busca interativa, layout responsivo e design elegante. | [Ver no GitHub](https://github.com/FernandaFatima/LandingPageVinhos) |
+| **Games Python (Pygame)** | Meu primeiro jogo com **Python** e **Pygame**. Um *game tester* simples para coletar pontos, explorando colisões, sons e o *game loop*. | [Ver no GitHub](https://github.com/FernandaFatima/games-pyton) |
 
 </div>
-
 ---
 
 ## 🧩 **Atividade Recente**
