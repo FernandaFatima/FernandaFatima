@@ -43,12 +43,15 @@ Busco criar soluções que simplificam o complexo, conectam propósito e impulsi
 
 > Obs.: Aqui podemos colocar **gráficos ou badges de progresso reais** mais tarde.
 
+> Barra de progresso simulada com emojis para visual moderno
+
 | Projeto | Progresso |
 | :--- | :--- |
-| Pixel Escape | ![80%](https://progress-bar.dev/80/) |
-| Trilha SDR | ![60%](https://progress-bar.dev/60/) |
-| Landing Page | ![40%](https://progress-bar.dev/40/) |
-| Games Python | ![20%](https://progress-bar.dev/20/) |
+| Pixel Escape | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 80% |
+| Trilha SDR | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 60% |
+| Landing Page | 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 40% |
+| Games Python | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 20% |
+
 ---
 
 ## 🌟 **Projetos em Destaque**
