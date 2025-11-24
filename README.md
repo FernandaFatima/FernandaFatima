@@ -31,9 +31,7 @@ Busco criar soluções que simplificam o complexo, conectam propósito e impulsi
 ---
 
 
-## 🏁 Progresso dos Projetos
-
-> Barra de progresso simulada com emojis para visual moderno
+## 🏁 Progresso de Projetos
 
 | Projeto | Progresso |
 | :--- | :--- |
