@@ -1,0 +1,30 @@
+name: Atualizar Atividade Recente no README
+
+on:
+  schedule:
+    # Roda a cada 6 horas. Ajuste se preferir outra frequência.
+    - cron: '0 */6 * * *'
+  # Permite rodar manualmente na aba "Actions"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Código
+        uses: actions/checkout@v4
+
+      - name: Preencher Atividade Recente
+        uses: 'Platane/snk@v3'
+        with:
+          github_user_name: 'FernandaFatima' # Seu nome de usuário
+          token: ${{ secrets.GITHUB_TOKEN }}
+          # Certifique-se de que o caminho é o seu README
+          target_readme_path: 'README.md'
+          
+      # Adicione este passo para dar commit nas mudanças feitas pela Action
+      - name: Commit e Push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "docs: Atualiza Atividade Recente"
+          branch: main # ou 'master', dependendo do seu branch principal
