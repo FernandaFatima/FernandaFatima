@@ -11,19 +11,11 @@ Busco criar soluções que simplificam o complexo, conectam propósito e impulsi
 
 ---
 
-## 📊 **Meu Dashboard de Desenvolvimento**
+## 📊 Estatísticas do GitHub
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FernandaFatima&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&hide_border=true&title_color=ff00aa)  
 
-| Estatísticas GitHub | Linguagens & Tecnologias |
-| :---: | :---: |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FernandaFatima&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&hide_border=true&title_color=ff00aa) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaFatima&layout=compact&langs_count=6&theme=buefy&hide_border=true&title_color=ff00aa) |
-
-| Progresso de Projetos |
-| :---: |
-| <img src="https://via.placeholder.com/500x200.png?text=Pixel+Escape+80%25+|+Trilha+SDR+60%25+|+Landing+Page+40%25+|+Games+Python+20%25" alt="Progresso dos Projetos"/> |
-
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaFatima&layout=compact&langs_count=6&theme=buefy&hide_border=true&title_color=ff00aa)
 
 ---
 
@@ -46,12 +38,17 @@ Busco criar soluções que simplificam o complexo, conectam propósito e impulsi
 
 ---
 
-## 🎯 **Próximos passos**
-- Criar automações mais robustas  
-- Avançar em APIs e integrações  
-- Iniciar estudos em JavaScript  
-- Desenvolver aplicações Web completas  
 
+## 🏁 Progresso dos Projetos
+
+> Obs.: Aqui podemos colocar **gráficos ou badges de progresso reais** mais tarde.
+
+| Projeto | Progresso |
+| :--- | :--- |
+| Pixel Escape | ![80%](https://progress-bar.dev/80/) |
+| Trilha SDR | ![60%](https://progress-bar.dev/60/) |
+| Landing Page | ![40%](https://progress-bar.dev/40/) |
+| Games Python | ![20%](https://progress-bar.dev/20/) |
 ---
 
 ## 🌟 **Projetos em Destaque**
