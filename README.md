@@ -24,13 +24,15 @@
 ---
 
 ### ✨ Projetos em Destaque
-  
+
+<div align="center">
+
   <a href="https://github.com/FernandaFAtima/trilhasdr">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=FernandaFAtima&repo=trilhasdr&theme=dark&title_color=28ff8c&icon_color=ff00aa**&cache_bust=1**" 
-    alt="Trilhas DR"
-  />
-</a>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FernandaFAtima&repo=trilhasdr&theme=dark&title_color=28ff8c&icon_color=ff00aa&cache_bust=99" alt="Trilhas DR"/>
+  </a>
+  
+</div>
+
 ---
 ### 📬 Onde me encontrar
 
