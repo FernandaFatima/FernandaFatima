@@ -52,11 +52,10 @@ Busco criar soluções que simplificam o complexo, conectam propósito e impulsi
 
 | Projeto | Descrição | Link |
 | :---: | :--- | :---: |
-| **Pixel Escape** | Escape Room digital em Pixel Art. Desenvolvido com JS para demonstrar lógica de jogo e manipulação do DOM. | [GitHub](https://github.com/FernandaFatima/pixel-escape) |
-| **Trilha SDR** | Plataforma interativa de trilha de aprendizagem para SDRs, com conteúdos práticos e desafios guiados. | [GitHub](https://github.com/FernandaFAtima/trilhasdr) |
-| **Landing Page de Vinhos** | Landing page de catálogo de vinhos “Cabernet Wine House” com busca interativa, layout responsivo e design elegante. | [GitHub](https://github.com/FernandaFatima/LandingPageVinhos) |
-| **Games Python (Pygame)** | Meu primeiro jogo com Python e Pygame. Um game tester simples explorando colisões, sons e o game loop. | [GitHub](https://github.com/FernandaFatima/games-pyton) |
-
+| **Pixel Escape** | **Escape Room digital** em Pixel Art. Desenvolvido com **JS** para demonstrar lógica de jogo e manipulação do DOM. | [Ver no GitHub](https://github.com/FernandaFatima/escaperoom) |
+| **Trilha SDR** | Plataforma interativa de trilha de aprendizagem para SDRs, com conteúdos práticos e desafios guiados. | [Ver no GitHub](https://github.com/FernandaFAtima/trilhasdr) |
+| **Landing Page de Vinhos** | Landing page de catálogo de vinhos “Cabernet Wine House” com busca interativa, layout responsivo e design elegante. | [Ver no GitHub](https://github.com/FernandaFatima/LandingPageVinhos) |
+| **Games Python (Pygame)** | Meu primeiro jogo com **Python** e **Pygame**. Um *game tester* simples para coletar pontos, explorando colisões, sons e o *game loop*. | [Ver no GitHub](https://github.com/FernandaFatima/games-pyton) |
 </div>
 
 ---
