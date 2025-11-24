@@ -52,8 +52,6 @@ Busco criar soluções que simplificam o complexo, conectam propósito e impulsi
 ---
 ## 🌟 Projetos em Destaque
 
-## 🌟 Projetos em Destaque
-
 <div align="center" style="display:flex; gap:20px; flex-wrap: wrap; justify-content: center;">
 
   <!-- Projeto 1: Trilha SDR -->
@@ -70,18 +68,10 @@ Busco criar soluções que simplificam o complexo, conectam propósito e impulsi
     <h3 align="center">Landing Page de Vinhos</h3>
     <p>Landing page de catálogo de vinhos “Cabernet Wine House” com busca interativa, layout responsivo e design elegante.</p>
     <p align="center">
-      <a href="[https://github.com/FernandaFAtima/NOME_DO_REPO_LANDING](https://github.com/FernandaFatima/LandingPageVinhos)">Ver no GitHub</a>
+      <a href="https://github.com/FernandaFatima/LandingPageVinhos">Ver no GitHub</a>
     </p>
   </div>
 
-</div>
----
-
-## 📈 **Minhas Estatísticas do GitHub**
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandaFAtima&show_icons=true&theme=dark&count_private=true&hide_border=true&title_color=28ff8c&icon_color=ff00aa"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaFAtima&layout=compact&langs_count=7&theme=dark&hide_border=true&title_color=28ff8c&icon_color=ff00aa"/>
 </div>
 
 ---
