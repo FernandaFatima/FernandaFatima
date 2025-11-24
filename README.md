@@ -54,23 +54,29 @@ Busco criar soluções que simplificam o complexo, conectam propósito e impulsi
 
 <div align="center" style="display:flex; gap:20px; flex-wrap: wrap; justify-content: center;">
 
-  <!-- Projeto 1: Trilha SDR -->
-  <div style="border: 2px solid #28ff8c; border-radius: 15px; padding: 15px; width: 300px; background-color: #0d1117;">
-    <h3 align="center">Trilha SDR</h3>
-    <p>Plataforma interativa de trilha de aprendizagem para SDRs, com conteúdos práticos e desafios guiados.</p>
-    <p align="center">
-      <a href="https://github.com/FernandaFAtima/trilhasdr">Ver no GitHub</a>
-    </p>
-  </div>
+    <div style="border: 2px solid #28ff8c; border-radius: 15px; padding: 15px; width: 300px; background-color: #0d1117;">
+    <h3 align="center">Trilha SDR</h3>
+    <p>Plataforma interativa de trilha de aprendizagem para SDRs, com conteúdos práticos e desafios guiados.</p>
+    <p align="center">
+      <a href="https://github.com/FernandaFAtima/trilhasdr">Ver no GitHub</a>
+    </p>
+  </div>
 
-  <!-- Projeto 2: Landing Page de Vinhos -->
-  <div style="border: 2px solid #28ff8c; border-radius: 15px; padding: 15px; width: 300px; background-color: #0d1117;">
-    <h3 align="center">Landing Page de Vinhos</h3>
-    <p>Landing page de catálogo de vinhos “Cabernet Wine House” com busca interativa, layout responsivo e design elegante.</p>
-    <p align="center">
-      <a href="https://github.com/FernandaFatima/LandingPageVinhos">Ver no GitHub</a>
-    </p>
-  </div>
+    <div style="border: 2px solid #28ff8c; border-radius: 15px; padding: 15px; width: 300px; background-color: #0d1117;">
+    <h3 align="center">Landing Page de Vinhos</h3>
+    <p>Landing page de catálogo de vinhos “Cabernet Wine House” com busca interativa, layout responsivo e design elegante.</p>
+    <p align="center">
+      <a href="https://github.com/FernandaFatima/LandingPageVinhos">Ver no GitHub</a>
+    </p>
+  </div>
+
+    <div style="border: 2px solid #28ff8c; border-radius: 15px; padding: 15px; width: 300px; background-color: #0d1117;">
+    <h3 align="center">Games Python (Pygame)</h3>
+    <p>Meu primeiro jogo com **Python** e **Pygame**. É um *game tester* simples para coletar pontos, explorando colisões, sons e o *game loop*.</p>
+    <p align="center">
+      <a href="https://github.com/FernandaFatima/games-pyton">Ver no GitHub</a>
+    </p>
+  </div>
 
 </div>
 
