@@ -70,7 +70,7 @@ Busco criar soluções que simplificam o complexo, conectam propósito e impulsi
     <h3 align="center">Landing Page de Vinhos</h3>
     <p>Landing page de catálogo de vinhos “Cabernet Wine House” com busca interativa, layout responsivo e design elegante.</p>
     <p align="center">
-      <a href="https://github.com/FernandaFAtima/NOME_DO_REPO_LANDING">Ver no GitHub</a>
+      <a href="[https://github.com/FernandaFAtima/NOME_DO_REPO_LANDING](https://github.com/FernandaFatima/LandingPageVinhos)">Ver no GitHub</a>
     </p>
   </div>
 
