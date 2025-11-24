@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou a Fernanda Fátima
 
-🌌 Exploradora de inteligências (humanas e artificiais) com propósito.
+🌌 Exploradora de inteligências (humanas e artificiais)
 💻 Desenvolvedora em formação | Foco em **Python**, automações e Web.
 🎧 Movida a café, rock e boas perguntas.
 🚀 Construindo soluções que conectam propósito e tecnologia.
