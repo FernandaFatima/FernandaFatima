@@ -64,11 +64,6 @@ Busco criar soluções que simplificam o complexo, conectam propósito e impulsi
 </div>
 ---
 
-## 🧩 **Atividade Recente**
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
----
-
 ## 🤝 **Vamos conversar?**
 
 <p align="left">
