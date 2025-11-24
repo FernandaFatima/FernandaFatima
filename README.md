@@ -10,15 +10,15 @@ Apaixonada por tecnologia, automações e inteligência artificial.
 Busco criar soluções que simplificam o complexo, conectam propósito e impulsionam a eficiência.
 ---
 
+---
+
 ## 📊 **Estatísticas do GitHub** 📈
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FernandaFatima&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&hide_border=true&title_color=ff00aa" alt="Estatísticas do GitHub da Fernanda Fátima"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaFatima&layout=compact&langs_count=6&theme=buefy&hide_border=true&title_color=ff00aa" alt="Linguagens Mais Usadas"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=FernandaFatima&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&hide_border=true&title_color=ff00aa" alt="Estatísticas do GitHub da Fernanda Fátima"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaFatima&layout=compact&langs_count=6&theme=buefy&hide_border=true&title_color=ff00aa" alt="Linguagens Mais Usadas"/>
 
 ---
+
 ## 🛠 **Tecnologias & Ferramentas**
 
 <p>
