@@ -51,7 +51,6 @@ Busco criar soluções que simplificam o complexo, conectam propósito e impulsi
 
 ---
 ## 🌟 Projetos em Destaque ✨
-
 <div align="center">
 
 | Projeto | Descrição | Link |
