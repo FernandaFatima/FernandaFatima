@@ -25,13 +25,8 @@
 
 ### ✨ Projetos em Destaque
 
-<div align="center">
-
-  <a href="https://github.com/FernandaFAtima/trilhasdr">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FernandaFAtima&repo=trilhasdr&theme=dark&title_color=28ff8c&icon_color=ff00aa&cache_bust=99" alt="Trilhas DR"/>
-  </a>
-  
-</div>
+* **[Trilha de Aprendizagem SDR](https://github.com/FernandaFAtima/trilhasdr)** – Plataforma completa de treinamento para SDRs com gamificação e recursos essenciais.
+* **[Landing Page Vinhos](https://github.com/FernandaFAtima/LandingPageVinhos)** – (Adicionar descrição aqui).
 
 ---
 ### 📬 Onde me encontrar
