@@ -25,15 +25,9 @@
 
 ### ✨ Projetos em Destaque
 
-<p align="center">
-  [![Repo Card - Vinhos](https://github-readme-stats.vercel.app/api/pin/?username=FernandaFAtima&repo=Landinh-Page-Vinhos&theme=dark&title_color=28ff8c&icon_color=ff00aa)](https://github.com/FernandaFAtima/Landinh-Page-Vinhos)
-</p>
+[![Landinh Page Vinhos](https://github-readme-stats.vercel.app/api/pin/?username=FernandaFAtima&repo=Landinh-Page-Vinhos&theme=dark&title_color=28ff8c&icon_color=ff00aa)](https://github.com/FernandaFAtima/Landinh-Page-Vinhos)
 
-<hr> 
-
-<p align="center">
-  [![Repo Card - Trilhas](https://github-readme-stats.vercel.app/api/pin/?username=FernandaFAtima&repo=trilhasdr&theme=dark&title_color=28ff8c&icon_color=ff00aa)](https://github.com/FernandaFAtima/trilhasdr)
-</p>
+[![Trilhas DR](https://github-readme-stats.vercel.app/api/pin/?username=FernandaFAtima&repo=trilhasdr&theme=dark&title_color=28ff8c&icon_color=ff00aa)](https://github.com/FernandaFAtima/trilhasdr)
 
 ---
 ### 📬 Onde me encontrar
