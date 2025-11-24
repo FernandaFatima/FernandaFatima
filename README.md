@@ -8,22 +8,17 @@ Estudante de Análise e Desenvolvimento de Sistemas (ADS)
 
 Apaixonada por tecnologia, automações e inteligência artificial.  
 Busco criar soluções que simplificam o complexo, conectam propósito e impulsionam a eficiência.
-
-🌌 Curiosidade é meu motor.  
-💻 Python & Web são minhas ferramentas.  
-🚀 Evolução contínua é meu objetivo.
-
 ---
 
-## 🌐 **Sobre mim**
-- 🔍 Foco em **Python**, automações e desenvolvimento Web  
-- 🤖 Estudando e explorando aplicações práticas de **IA**  
-- 🧠 Amo resolver problemas de forma criativa  
-- 🎧 Movida a café, rock e boas perguntas  
-- 🚀 Construindo meus projetos com propósito e consistência  
+## 📊 **Estatísticas do GitHub** 📈
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FernandaFatima&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&hide_border=true&title_color=ff00aa" alt="Estatísticas do GitHub da Fernanda Fátima"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaFatima&layout=compact&langs_count=6&theme=buefy&hide_border=true&title_color=ff00aa" alt="Linguagens Mais Usadas"/>
+</p>
 
 ---
-
 ## 🛠 **Tecnologias & Ferramentas**
 
 <p>
