@@ -79,6 +79,7 @@ Busco criar soluções que simplificam o complexo, conectam propósito e impulsi
   </div>
 
 </div>
+
 ---
 
 ## 🧩 **Atividade Recente**
