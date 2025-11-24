@@ -62,6 +62,7 @@ Busco criar soluções que simplificam o complexo, conectam propósito e impulsi
 | **Games Python (Pygame)** | Meu primeiro jogo com **Python** e **Pygame**. Um *game tester* simples para coletar pontos, explorando colisões, sons e o *game loop*. | [Ver no GitHub](https://github.com/FernandaFatima/games-pyton) |
 
 </div>
+
 ---
 
 ## 🤝 **Vamos conversar?**
