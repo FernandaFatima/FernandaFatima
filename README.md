@@ -33,8 +33,6 @@ Busco criar soluções que simplificam o complexo, conectam propósito e impulsi
 
 ## 🏁 Progresso dos Projetos
 
-> Obs.: Aqui podemos colocar **gráficos ou badges de progresso reais** mais tarde.
-
 > Barra de progresso simulada com emojis para visual moderno
 
 | Projeto | Progresso |
