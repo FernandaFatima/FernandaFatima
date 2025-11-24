@@ -50,28 +50,29 @@ Busco criar soluções que simplificam o complexo, conectam propósito e impulsi
 - Desenvolver aplicações Web completas  
 
 ---
+## 🌟 Projetos em Destaque
 
-## 🌟 **Projeto em Destaque**
+<div align="center" style="display:flex; gap:20px; flex-wrap: wrap;">
 
-<a href="https://github.com/FernandaFAtima/trilhasdr">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FernandaFAtima&repo=trilhasdr&theme=dark&title_color=28ff8c&icon_color=ff00aa&hide_border=true"/>
-</a>
+  <!-- Projeto 1 -->
+  <div style="border: 2px solid #28ff8c; border-radius: 15px; padding: 15px; width: 300px;">
+    <h3 align="center">Trilha SDR</h3>
+    <p>Plataforma interativa de trilha de aprendizagem para SDRs, com conteúdos práticos e desafios.</p>
+    <p align="center">
+      <a href="https://github.com/FernandaFAtima/trilhasdr">Ver no GitHub</a>
+    </p>
+  </div>
 
-**Descrição:** Plataforma interativa de trilha de aprendizagem para SDRs, com conteúdos práticos, dinâmicos e focados em performance.
+  <!-- Projeto 2 -->
+  <div style="border: 2px solid #28ff8c; border-radius: 15px; padding: 15px; width: 300px;">
+    <h3 align="center">Outro Projeto</h3>
+    <p>Descrição resumida do segundo projeto com destaque para tecnologias usadas.</p>
+    <p align="center">
+      <a href="https://github.com/FernandaFAtima/NOME_DO_OUTRO_REPO">Ver no GitHub</a>
+    </p>
+  </div>
 
----
-
-## 🗂️ Portfólio
-
-<p align="center">
-  <a href="https://github.com/FernandaFAtima/trilhasdr">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=FernandaFAtima&repo=trilhasdr&theme=dark&title_color=28ff8c&icon_color=ff00aa&hide_border=true"/>
-  </a>
-
-  <a href="https://github.com/FernandaFAtima/">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=FernandaFAtima&repo=NOME_DO_OUTRO_REPO&theme=dark&title_color=28ff8c&icon_color=ff00aa&hide_border=true"/>
-  </a>
-</p>
+</div>
 
 ---
 
