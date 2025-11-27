@@ -46,63 +46,6 @@ Um portal de notícias moderno desenvolvido desde o zero com foco total em **ace
 ---
 
 ## 💡 **Outros Projetos**
-- 🌐 Landing Page de Vinhos  
-- 💬 Scripts e automações diversas  
-- 🎨 Estudos e experimentos com UI/UX  
-
-(Em breve organizados aqui com links diretos)
-
----
-
-## 📈 **Status Atual**
-🚀 Em constante evolução  
-📚 Aperfeiçoando HTML, CSS, JavaScript e Acessibilidade  
-🤖 Aprimorando automações Python e integrações com IA  
-
----
-
-## 💬 **Conecte-se comigo**
-<p align="left">
-  <a href="https://www.linkedin.com/in/fernandafatima">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:fernandafatima.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-✨ *Sempre construindo, aprendendo e evoluindo. O melhor ainda está por vir.*  
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
-
----
-
-## 📚 **Atualmente estudando**
-- Python (Automação, APIs, Web)
-- HTML5 + CSS3
-- Lógica de programação
-- Git & GitHub
-- Fundamentos de IA aplicada
-
----
-
-
-## 🏁 Progresso de Projetos
-
-| Projeto | Progresso |
-| :--- | :--- |
-| Pixel Escape | 🟩⬜⬜⬜⬜⬜⬜⬜⬜ 10% |
-| Trilha SDR | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80% |
-| Landing Page | 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 30% |
-| Games Python | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
-
----
-
-## 🌟 **Projetos em Destaque**
 
 <div align="center">
 
@@ -113,6 +56,14 @@ Um portal de notícias moderno desenvolvido desde o zero com foco total em **ace
 | **Landing Page de Vinhos** | Landing page de catálogo de vinhos “Cabernet Wine House” com busca interativa, layout responsivo e design elegante. | [Ver no GitHub](https://github.com/FernandaFatima/LandingPageVinhos) |
 | **Games Python (Pygame)** | Meu primeiro jogo com **Python** e **Pygame**. Um *game tester* simples para coletar pontos, explorando colisões, sons e o *game loop*. | [Ver no GitHub](https://github.com/FernandaFatima/games-pyton) |
 </div>
+
+---
+
+✨ *Sempre construindo, aprendendo e evoluindo. O melhor ainda está por vir.*  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
 ---
 
